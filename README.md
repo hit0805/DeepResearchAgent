@@ -20,10 +20,10 @@ User Query
   Output to User
 
 ```
-Tool | Purpose
-Python | Core programming language
-LangChain | LLM integration and workflows
-LangGraph | Agent orchestration with graphs
-Tavily API | Web crawling and search
-OpenAI API | Drafting responses from research
-Colab | Development and testing
+- Tool | Purpose
+- Python | Core programming language
+- LangChain | LLM integration and workflows
+- LangGraph | Agent orchestration with graphs
+- Tavily API | Web crawling and search
+- OpenAI API | Drafting responses from research
+- Colab | Development and testing
