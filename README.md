@@ -1,4 +1,3 @@
-# DeepResearchAgent
 # Deep Research AI Agentic System
 This project implements an **AI Agentic System** designed to perform **deep research** by crawling the web using **Tavily**, processing the data with **LangChain**, and orchestrating workflows via **LangGraph**.
 
@@ -27,3 +26,6 @@ User Query
 - Tavily API | Web crawling and search
 - OpenAI API | Drafting responses from research
 - Colab | Development and testing
+
+**Sample Output**
+![image](https://github.com/user-attachments/assets/1cb95ed8-2dbf-4cb3-ad44-43686b6eb284)
